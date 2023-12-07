@@ -1,6 +1,6 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%" alt="hai"> I'm [Lakshitha](https://www.github.com/LakshithaEzi)
 
-[![Profile views](https://komarev.com/ghpvc/?username=LakshithaEzi&label=Profile%20views)](https://github.com/LakshithaEzi)<img src='https://media1.tenor.com/m/2zgbsleEnNoAAAAd/hot-bollywood.gif' alt="batman" height="100">
+[![Profile views](https://komarev.com/ghpvc/?username=LakshithaEzi&label=Profile%20views)](https://github.com/LakshithaEzi)<img src='https://media.tenor.com/OY6bIk0asR4AAAAi/quby.gif' alt="batman" height="100">
 
 - 🎀 Software Engineer
 - 🎁 Debugging myself from Bugs
