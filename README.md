@@ -1,6 +1,7 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%" alt="hai"> I'm [Lakshitha](https://www.github.com/LakshithaEzi)
+[![](https://visitcount.itsvg.in/api?id=LakshithaEzi&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> I'm [Lakshitha](https://www.github.com/LakshithaEzi)
 
-[![Profile views](https://komarev.com/ghpvc/?username=LakshithaEzi&label=Profile%20views)](https://github.com/LakshithaEzi)<img src='https://media.tenor.com/OY6bIk0asR4AAAAi/quby.gif' alt="batman" height="100">
+[![Profile views](https://komarev.com/ghpvc/?username=LakshithaEzi&label=Profile%20views)](https://github.com/LakshithaEzi)<img src='https://media.tenor.com/OY6bIk0asR4AAAAi/quby.gif' alt="batman" width="100">
 
 - 🎀 Software Engineer
 - 🎁 Debugging myself from Bugs
