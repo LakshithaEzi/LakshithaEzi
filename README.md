@@ -7,7 +7,16 @@
 - 🎁 Debugging myself from Bugs
 - ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/sameera-lakshitha-029038182/) , [Instagram](https://www.instagram.com/i_am_lakshitha98/) & [Telegram](https://t.me/bughunterbots)
   <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="center"/>
+  
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
+<br/>
+<hr/>
 ## Contribution Graph
 
 <a href="https://github.com/LakshithaEzi"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LakshithaEzi&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&theme=dark" /></a>
