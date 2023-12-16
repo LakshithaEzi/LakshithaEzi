@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=LakshithaEzi&icon=0&color=0)](https://visitcount.itsvg.in)<br>
 # <img src="**https://media.giphy.com/media/sPE10urWXK7YLZ7oli/giphy.gif**" width ="25"> I'm [Lakshitha](https://www.github.com/LakshithaEzi)
 
-[![Profile views](https://komarev.com/ghpvc/?username=LakshithaEzi&label=Profile%20views)](https://github.com/LakshithaEzi)<img src='https://media.tenor.com/OY6bIk0asR4AAAAi/quby.gif' alt="batman" width="100">
+[![Profile views](https://komarev.com/ghpvc/?username=LakshithaEzi&label=Profile%20views)](https://github.com/LakshithaEzi)<img src='https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif' alt="batman" width="100">
 
 - 🎀 Software Engineer
 - 🎁 Debugging myself from Bugs
@@ -11,7 +11,7 @@
 
   <img src="https://media.tenor.com/OGDuOUXZPLAAAAAi/design-designinspiration.gif" alt="img" width="30%" align="center"/>
   
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages | Frameworks | Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
