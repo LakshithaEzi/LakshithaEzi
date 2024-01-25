@@ -46,8 +46,9 @@ Let's connect and explore exciting opportunities together! 🚀 #WebDeveloper #M
 <hr/>
 
 
+
 <BR><a href=https://github.com/sponsors/LakshithaEzi>
-<img src="https://raw.githubusercontent.com/LakshithaEzi/LakshithaEzi/main/pics/git-sponsor.png" alt="Sponsir image"/></a>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Sponsir image"/></a>
 <br>
 
 
