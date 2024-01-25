@@ -37,7 +37,6 @@ Copy code
 
 Let's connect and explore exciting opportunities together! 🚀 #WebDeveloper #MEANStack #ReactJS #FullStack #AgileDevelopment
 
-Let's connect and explore exciting opportunities together! 🚀 #WebDeveloper #MEANStack #ReactJS #FullStack #AgileDevelopment
   <img src="https://media.tenor.com/OGDuOUXZPLAAAAAi/design-designinspiration.gif" alt="img" width="30%" align="center"/>
   
 <h2 align="center"> Languages | Frameworks | Tools </h2>
