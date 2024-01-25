@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=LakshithaEzi&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+
 # <img src="**https://media.giphy.com/media/sPE10urWXK7YLZ7oli/giphy.gif**" width ="25"> I'm [Lakshitha](https://www.github.com/LakshithaEzi)
 
 [![Profile views](https://komarev.com/ghpvc/?username=LakshithaEzi&label=Profile%20views)](https://github.com/LakshithaEzi)<img src='https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif' alt="batman" width="100">
