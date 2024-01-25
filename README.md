@@ -50,15 +50,9 @@ Let's connect and explore exciting opportunities together! 🚀 #WebDeveloper #M
 <BR><a href=https://github.com/sponsors/LakshithaEzi>
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Sponsir image" width="50%" align="center"></a>
 <be>
-# Online Pharmacy Management System API
 
-This repository contains the code for the Online Pharmacy Management System API, built using Node.js. The API facilitates pharmacists and doctors to manage prescriptions and medicines efficiently.
 
-## Features
 
-- **Medicine Location Search**: Pharmacists can easily find the location of medicines in the inventory.
-- **Online Prescription Creation**: Doctors can create online prescriptions for patients.
-- **Medicine Listing**: Comprehensive listing of available medicines with detailed information.
 
 
 
