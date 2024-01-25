@@ -4,16 +4,22 @@
 [![Profile views](https://komarev.com/ghpvc/?username=LakshithaEzi&label=Profile%20views)](https://github.com/LakshithaEzi)<img src='https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif' alt="batman" width="100">
 
 
-🌟 Experienced Full-Stack Web Developer | Passionate about MEAN Stack and ReactJS 🚀
+Certainly! Here's the summary formatted for Markdown (.md) for GitHub:
 
-🔹 Seasoned professional in web development with a focus on MEAN Stack (MongoDB, Express.js, AngularJS, Node.js) and ReactJS technologies.
+markdown
+Copy code
+## 🌟 Web Developer | Passionate about MEAN Stack and ReactJS 🚀
+
+🔹 Focus on MEAN Stack (MongoDB, Express.js, AngularJS, Node.js) and ReactJS technologies.
 🔹 Proficient in crafting robust, scalable, and user-friendly web applications from concept to deployment.
 🔹 Skilled in frontend technologies including HTML5, CSS3, JavaScript, and responsive design principles.
-🔹 Strong problem-solving abilities with a keen eye for detail, ensuring optimal performance and user experience.
+🔹 Ensuring optimal performance and user experience.
 🔹 Collaborative team player with excellent communication skills, adept at working in agile environments to deliver high-quality solutions.
 🔹 Dedicated to staying updated with the latest industry trends and technologies to continuously enhance skills and contribute effectively to projects.
 🔹 Enthusiastic about leveraging innovative tools and frameworks to streamline development processes and exceed client expectations.
 🔹 Eager to connect with like-minded professionals and explore opportunities for impactful collaborations in the dynamic world of web development.
+
+Let's connect and explore exciting opportunities together! 🚀 #WebDeveloper #MEANStack #ReactJS #FullStack #AgileDevelopment
 
 Let's connect and explore exciting opportunities together! 🚀 #WebDeveloper #MEANStack #ReactJS #FullStack #AgileDevelopment
   <img src="https://media.tenor.com/OGDuOUXZPLAAAAAi/design-designinspiration.gif" alt="img" width="30%" align="center"/>
