@@ -4,10 +4,6 @@
 [![Profile views](https://komarev.com/ghpvc/?username=LakshithaEzi&label=Profile%20views)](https://github.com/LakshithaEzi)<img src='https://octodex.github.com/images/collabocats.jpg' alt="batman" width="100">
 
 
-Certainly! Here's the summary formatted for Markdown (.md) for GitHub:
-
-markdown
-Copy code
 ## 🌟 Web Developer | Passionate about MEAN Stack and ReactJS 🚀
 
 🔹 Focus on MEAN Stack (MongoDB, Express.js, AngularJS, Node.js) and ReactJS technologies.
