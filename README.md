@@ -1,7 +1,7 @@
 
 # <img src="**https://media.giphy.com/media/sPE10urWXK7YLZ7oli/giphy.gif**" width ="25"> I'm [Lakshitha](https://www.github.com/LakshithaEzi)
 
-[![Profile views]             (https://komarev.com/ghpvc/?username=LakshithaEzi&label=Profile%20views)](https://github.com/LakshithaEzi)<img src='https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png' alt="batman" width="100">
+[![Profile views](https://komarev.com/ghpvc/?username=LakshithaEzi&label=Profile%20views)](https://github.com/LakshithaEzi)<img src='https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png' alt="batman" width="100">
 
 
 ## 🌟 Web Developer | Passionate about MEAN Stack and ReactJS 🚀
