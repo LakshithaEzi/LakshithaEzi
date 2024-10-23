@@ -21,7 +21,7 @@
 🔹 Collaborative team player with excellent communication skills, adept at working in agile environments to deliver high-quality solutions.
 
 
-🔹 Dedicated to staying updated with the latest industry trends and technologies to continuously enhance skills and contribute effectively to projects.
+🔹 Dedicated to staying updated with the latest industry trends and technologies to enhance skills and contribute effectively to projects continuously.
 
 
 🔹 Enthusiastic about leveraging innovative tools and frameworks to streamline development processes and exceed client expectations.
@@ -38,8 +38,9 @@ Let's connect and explore exciting opportunities together! 🚀 #WebDeveloper #M
 <h2 align="center"> Languages | Frameworks | Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwindcss,git,MongoDB,reactjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,MySQL" /><br>
+      <img src="https://skillicons.dev/icons?i=postman,c,cs,cpp,dotnet,gitlab,npm,redux,vite" />
 </div>
 
 <br/>
